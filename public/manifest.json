@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "BlogCFC6",
+  "name": "BlogCFC is a ColdFusion blog",
   "icons": [
     {
       "src": "favicon.ico",
